@@ -21,7 +21,7 @@ def local_css(file_name):
   with open(file_name) as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
-local_css("style/style.css")
+local_css("style.css")
 
 #load assests
 lottie_coding=load_lottieur("https://lottie.host/d54f8819-3b40-40cd-a007-f66c51b9e1a9/HJtPPEs7qI.json")
