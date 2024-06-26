@@ -46,7 +46,7 @@ with st.container ():
 
     \nLastly, of course, my life wouldn't be complete without Chance, my loyal Amstaff companion. He's the perfect blend of energy and chill, always there to offer support during challenging tasks or provide a much-needed cuddle during frustrating moments. Our daily 4-mile walks help me clear my head and return to work refreshed and focused.
 
-    \nWhen I'm not busy closing deals or geeking out over the latest tech, you can find me cooking and watching anciant marvels on youtube.
+    \nWhen I'm not busy closing deals or geeking out over the latest tech, you can find me cooking and watching ancient marvels on youtube.
 
     \nLet's connect and discuss how my passion for sales and technology can help your business thrive!
     
@@ -63,11 +63,12 @@ with st.container():
     st.write("##")
     st.write(
         """
-        - Consistently exceed sales targets, and strive to educate customers in technology and its ability to solve thier problem.
-        - Build strong client relationships, expanding market through stratigc sleas methodology.
+        - Consistently exceed sales targets, and strive to educate customers in technology and its ability to solve their problem.
+        - Build strong client relationships, expanding market through strategic sales methodology.
         - Develop and implement effective training programs, improving new hire productivity and onboarding time.
-        - Lead and mentor high-performing teams, consistently exceeding sales targets and encouraging colaberation.
-        - Proficient in various CRM software, including Salesforce, Dynamics, and Zoho. Currently working on Saleforce admin modules
+        - Lead and mentor high-performing teams, consistently exceeding sales targets and encouraging collaboration.
+        - Proficient in various CRM software, including Salesforce, Dynamics, and Zoho. Currently working on Salesforce admin modules
+
         """
     )
   with right_column:
