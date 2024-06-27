@@ -32,7 +32,7 @@ resized_SD = Sleeping_dog.resize((400, 400))
 Sleeping_dog = Image.open("PXL_20231005_205004791~3.jpg")
 resized_SD = Sleeping_dog.resize((400, 400))
 dbl_gunz = Image.open("Webapp pic.jpg")
-resized_DG = dbl_gunz.resize((400, 400))
+resized_DG = dbl_gunz.resize((450, 400))
 
 #Header section
 with st.container ():
@@ -87,8 +87,8 @@ with st.container():
   image_column, text_column = st.columns((1,5))
   #insert image
   with image_column:
-    st.image(resized_SD)
     st.image(resized_DG)
+    st.image(resized_SD)
   with text_column:
     st.subheader("How I rely on a routine to maximise my week")
     st.write( 
