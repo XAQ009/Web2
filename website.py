@@ -143,7 +143,7 @@ with st.container():
 # Contact
 with st.container():
   st.write("----")
-  st.header(" Get with me!")
+  st.header(" Connect with me!")
   st.write("##")
 
 
