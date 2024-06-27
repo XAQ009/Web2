@@ -94,19 +94,24 @@ with st.container():
 
       \n**Some Examples:**\n
       Early Start and Strategic Planning:
-      My day begins at 5 a.m. with three hours dedicated to reflection, goal setting, and creating a prioritized action plan. This practice ensures I enter the workday at 8 a.m. with clarity and purpose.
+      My day begins at 5 a.m. with three hours dedicated to reflection, goal setting, and creating a prioritized action plan. 
+      This practice ensures I enter the workday at 8 a.m. with clarity and purpose.
 
       Morning Outreach and Physical Activity:
-      I promptly initiate outreach to new leads, establishing initial contact through voicemail and personalized text messages. This is followed by a brisk walk, combining physical activity with mental refresh.
+      I promptly initiate outreach to new leads, establishing initial contact through voicemail and personalized text messages. 
+      This is followed by a brisk walk, combining physical activity with mental refresh.
 
       Client Engagement and Relationship Building:
-      Midday is focused on nurturing leads through follow-up calls, addressing inquiries, and scheduling consultations.  Another walk in the afternoon provides a brief respite and allows me to prepare for the afternoon/evening appointments.
+      Midday is focused on nurturing leads through follow-up calls, addressing inquiries, and scheduling consultations. 
+      Another walk in the afternoon provides a brief respite and allows me to prepare for the afternoon/evening appointments.
 
       Dedicated Client Time and Future Planning:
-      Late afternoons are reserved for client meetings and consultations, where I address their needs and guide them through the decision-making process. I conclude each workday by reviewing outcomes and preparing for the next day's activities.
+      Late afternoons are reserved for client meetings and consultations, where I address their needs and guide them through the decision-making process.
+      I conclude each workday by reviewing outcomes and preparing for the next day's activities.
 
       Professional Development and Strategic Networking:
-      Evenings are allocated to continuous learning through industry publications, podcasts, and occasional networking events. I often incorporate physical activity into this time, engaging in walks or visiting the local dog park.
+      Evenings are allocated to continuous learning through industry publications, podcasts, and occasional networking events.
+      I often incorporate physical activity into this time, engaging in walks or visiting the local dog park.
       During football season, I may choose to combine professional development with social interaction at a local establishment while supporting my team (Go Cowboys!).
 
       Rest and Recharge:
