@@ -26,9 +26,9 @@ local_css("style.css")
 #load assests
 lottie_coding=load_lottieur("https://lottie.host/d54f8819-3b40-40cd-a007-f66c51b9e1a9/HJtPPEs7qI.json")
 Walking_Dog = Image.open("Chance.jpg")
-resized_WD = Walking_Dog.resize((350, 350))
+resized_WD = Walking_Dog.resize((400, 400))
 Sleeping_dog = Image.open("PXL_20231005_205004791~3.jpg")
-resized_SD = Sleeping_dog.resize((350, 350))
+resized_SD = Sleeping_dog.resize((400, 400))
 
 #Header section
 with st.container ():
@@ -60,7 +60,7 @@ with st.container():
   st.write("----")
   left_column, right_column = st.columns(2)
   with left_column:
-    st.header ("What I do")
+    st.header ("What I do best!")
     st.write("##")
     st.write(
         """
