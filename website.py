@@ -33,7 +33,7 @@ resized_SD = Sleeping_dog.resize((350, 350))
 #Header section
 with st.container ():
   st.subheader("Hi, I am Zach 🙋‍♂️")
-  st.title("A sales expert in Austin Texas")
+  st.title("A Sales Expert Living in Austin Texas")
   st.markdown(
     """
     **About me:**  \nThe Sales Whiz with a Tech-Loving Heart (and an Awesome Amstaff!)
