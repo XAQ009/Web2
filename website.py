@@ -26,13 +26,11 @@ local_css("style.css")
 #load assests
 lottie_coding=load_lottieur("https://lottie.host/d54f8819-3b40-40cd-a007-f66c51b9e1a9/HJtPPEs7qI.json")
 Walking_Dog = Image.open("Chance.jpg")
-resized_WD = Walking_Dog.resize((400, 400))
+resized_WD = Walking_Dog.resize((400, 425))
 Sleeping_dog = Image.open("PXL_20231005_205004791~3.jpg")
-resized_SD = Sleeping_dog.resize((400, 400))
-Sleeping_dog = Image.open("PXL_20231005_205004791~3.jpg")
-resized_SD = Sleeping_dog.resize((400, 400))
+resized_SD = Sleeping_dog.resize((400, 425))
 dbl_gunz = Image.open("Webapp pic.jpg")
-resized_DG = dbl_gunz.resize((600, 700))
+resized_DG = dbl_gunz.resize((600, 725))
 
 #Header section
 with st.container ():
