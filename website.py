@@ -88,6 +88,7 @@ with st.container():
   #insert image
   with image_column:
     st.image(resized_SD)
+    st.image(resized_DG)
   with text_column:
     st.subheader("How I rely on a routine to maximise my week")
     st.write( 
