@@ -31,7 +31,7 @@ Sleeping_dog = Image.open("PXL_20231005_205004791~3.jpg")
 resized_SD = Sleeping_dog.resize((400, 400))
 Sleeping_dog = Image.open("PXL_20231005_205004791~3.jpg")
 resized_SD = Sleeping_dog.resize((400, 400))
-dbl_gunz = Image.open("webapp pic.jpg")
+dbl_gunz = Image.open("Webapp pic.jpg")
 resized_DG = dbl_gunz.resize((400, 400))
 
 #Header section
