@@ -55,8 +55,8 @@ with st.container ():
     
     """
     )
-  st.write("[Check Out My Github! >]("https://github.com/XAQ009")
-  st.write("[My linkedin as well! >]("https://www.linkedin.com/in/zachary-lantz/")
+  st.write("[Check Out My Github! >](https://github.com/XAQ009)")
+  st.write("[My linkedin as well! >](https://www.linkedin.com/in/zachary-lantz/)")
 
 # What I Do
 with st.container():
