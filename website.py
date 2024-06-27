@@ -29,6 +29,10 @@ Walking_Dog = Image.open("Chance.jpg")
 resized_WD = Walking_Dog.resize((400, 400))
 Sleeping_dog = Image.open("PXL_20231005_205004791~3.jpg")
 resized_SD = Sleeping_dog.resize((400, 400))
+Sleeping_dog = Image.open("PXL_20231005_205004791~3.jpg")
+resized_SD = Sleeping_dog.resize((400, 400))
+dbl_gunz = Image.open("webapp pic.jpg")
+resized_DG = dbl_gunz.resize((400, 400))
 
 #Header section
 with st.container ():
