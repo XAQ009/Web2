@@ -44,7 +44,8 @@ with st.container ():
 
     \nWhile I may not have a grand story of tech problem-solving on a global scale, I'm the go-to tech guy for my family and friends. Whether it's migrating phones, learning and managing new software, or troubleshooting glitches, I'm always happy to lend a hand.
 
-    \nLastly, of course, my life wouldn't be complete without Chance, my loyal Amstaff companion. He's the perfect blend of energy and chill, always there to offer support during challenging tasks or provide a much-needed cuddle during frustrating moments. Our daily 4-mile walks help me clear my head and return to work refreshed and focused.
+    \nLastly, of course, my life wouldn't be complete without Chance, my loyal Amstaff companion. He's the perfect blend of energy and chill, always there to offer support during challenging tasks or provide a much-needed cuddle during frustrating moments. 
+    Our daily 4-mile walks help me clear my head and return to work refreshed and focused.
 
     \nWhen I'm not busy closing deals or geeking out over the latest tech, you can find me cooking and watching ancient marvels on youtube.
 
@@ -88,7 +89,8 @@ with st.container():
     st.write( 
       """
       **Let me talk about routines!!**
-      \nI thrive on structure and believe a well-defined routine is essential for maximizing productivity. However, I also recognize the importance of adaptability in a fast-paced, technology-driven environment.  My routine is designed to balance both focus and flexibility.
+      \nI thrive on structure and believe a well-defined routine is essential for maximizing productivity. 
+      However, I also recognize the importance of adaptability in a fast-paced, technology-driven environment. My routine is designed to balance both focus and flexibility.
 
       \n**Some Examples:**\n
       Early Start and Strategic Planning:
@@ -104,7 +106,8 @@ with st.container():
       Late afternoons are reserved for client meetings and consultations, where I address their needs and guide them through the decision-making process. I conclude each workday by reviewing outcomes and preparing for the next day's activities.
 
       Professional Development and Strategic Networking:
-      Evenings are allocated to continuous learning through industry publications, podcasts, and occasional networking events. I often incorporate physical activity into this time, engaging in walks or visiting the local dog park. During football season, I may choose to combine professional development with social interaction at a local establishment while supporting my team (Go Cowboys!).
+      Evenings are allocated to continuous learning through industry publications, podcasts, and occasional networking events. I often incorporate physical activity into this time, engaging in walks or visiting the local dog park.
+      During football season, I may choose to combine professional development with social interaction at a local establishment while supporting my team (Go Cowboys!).
 
       Rest and Recharge:
       I disconnect from most technology by 9 p.m., ensuring adequate time for relaxation and personal pursuits.  
